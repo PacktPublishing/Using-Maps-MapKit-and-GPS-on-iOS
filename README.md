@@ -1,5 +1,3 @@
-# Using-Maps-MapKit-and-GPS-on-iOS
-Code repository for Using Maps, MapKit, and GPS on iOS, published by Packt
 # Using Maps, MapKit, and GPS on iOS
 This is the code repository for [Using Maps, MapKit, and GPS on iOS](https://www.packtpub.com/virtualization-and-cloud/reliability-and-resilience-aws-video?utm_source=github&utm_medium=repository&utm_campaign=9781789611700), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
